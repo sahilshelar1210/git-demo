@@ -1,2 +1,2 @@
 # git-demo
-this is for trial
+this is for trial.
